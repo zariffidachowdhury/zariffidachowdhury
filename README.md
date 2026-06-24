@@ -127,16 +127,12 @@ A full-stack AI assistant for Senior Design students — built **security-first*
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zariffidachowdhury&show_icons=true&hide_border=true&bg_color=0a0e16&title_color=00e6a8&icon_color=6ea8ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zariffidachowdhury&show_icons=true&hide_border=true&bg_color=0a0e16&title_color=00e6a8&icon_color=6ea8ff&text_color=c9d1d9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zariffidachowdhury&layout=compact&hide_border=true&bg_color=0a0e16&title_color=00e6a8&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zariffidachowdhury&theme=dark&hide_border=true&background=0a0e16&stroke=1b2433&ring=00e6a8&fire=6ea8ff&currStreakLabel=00e6a8&sideLabels=c9d1d9&dates=8b97a8&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zariffidachowdhury&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+<img height="170" src="https://streak-stats.demolab.com/?user=zariffidachowdhury&theme=dark&hide_border=true&background=0a0e16&stroke=1b2433&ring=00e6a8&fire=6ea8ff&currStreakLabel=00e6a8&sideLabels=c9d1d9&dates=8b97a8&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
