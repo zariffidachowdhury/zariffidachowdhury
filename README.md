@@ -89,37 +89,18 @@ I'm a Computer Science senior focused on the overlap between **full-stack engine
 
 ## 📌 Featured Project
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔒 [Capstone GPT](https://github.com/zariffidachowdhury/capstone-gpt) — secure, course-grounded RAG assistant
 
-### 🔒 Capstone GPT
-**Secure, course-grounded RAG assistant**
+A full-stack AI assistant for Senior Design students — built **security-first** and delivered solo. The LLM API key never leaves the server: every call flows through one auditable PHP middleware control point for validation, prompt composition, and activity logging.
 
-A full-stack AI assistant for Senior Design students — built **security-first** and delivered solo. The LLM API key never leaves the server: every call flows through one auditable PHP middleware control point.
-
-- 🔑 Server-side LLM key handling + activity logging
-- 🛡️ Session auth · bcrypt · 256-bit tokens · server-side validation
-- 🔌 8 REST endpoints over a normalized 5-table MySQL schema
-- 🤖 Dify RAG workflow with topic-aware routing
+- 🔑 **Server-side LLM key handling** + activity logging — one auditable control point
+- 🛡️ Session auth · **bcrypt** · **256-bit tokens** · server-side input validation
+- 🔌 **8 REST endpoints** over a normalized **5-table MySQL** schema
+- 🤖 **Dify RAG** workflow with topic-aware routing & student-profile context
 
 `PHP 8` · `MySQL` · `JavaScript` · `Tailwind` · `Dify` · `RAG`
 
-[**→ View Repository**](https://github.com/zariffidachowdhury/capstone-gpt)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/zariffidachowdhury/capstone-gpt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zariffidachowdhury&repo=capstone-gpt&theme=react&bg_color=0a0e16&title_color=00e6a8&icon_color=6ea8ff&text_color=c9d1d9&border_color=1b2433" />
-</a>
-
-> 🌐 **Live walkthrough & more projects:**
-> [zariffidachowdhury.github.io/portfolio](https://zariffidachowdhury.github.io/portfolio/)
-
-</td>
-</tr>
-</table>
+[**→ View Repository**](https://github.com/zariffidachowdhury/capstone-gpt) &nbsp; · &nbsp; [**🌐 Live portfolio & more projects**](https://zariffidachowdhury.github.io/portfolio/)
 
 ---
 
