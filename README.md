@@ -3,7 +3,7 @@
   <img alt="Zarif Fida Chowdhury" src="wordmark-light.svg" width="640">
 </picture>
 
-Software engineer in Oxford, Ohio (B.S. Computer Science, Miami University, August 2026), building full-stack systems with the security work done up front.
+Software engineer in Oxford, Ohio (B.S. Computer Science, Miami University, expected September 2026), building full-stack systems with the security work done up front.
 
 [zariffidachowdhury.github.io](https://zariffidachowdhury.github.io/) · [Résumé (PDF)](https://zariffidachowdhury.github.io/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zarif-fida-chowdhury/) · [Email](mailto:zariffidachowdhury@gmail.com)
 
